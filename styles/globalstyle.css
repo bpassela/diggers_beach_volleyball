@@ -1,0 +1,70 @@
+@charset "utf-8";
+#container {
+	background-color: #6CF;
+	padding: 10px;
+	height: auto;
+	width: 950px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../images/sand.jpg);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+#banner {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 60px;
+	color: #FF3;
+	position: relative;
+	left: auto;
+	right: auto;
+	font-weight: bold;
+	float: none;
+	height: 150px;
+	width: 700px;
+}
+#navbar {
+	background-color: #FF3;
+	height: 40px;
+	width: auto;
+	float: none;
+}
+.navtext {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	color: #69F;
+	left: auto;
+	right: auto;
+	font-weight: bold;
+}
+#content {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #006;
+	background-color: #FFF;
+	padding: 10px;
+	height: auto;
+	width: 910px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.heading {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #006;
+}
+#footer {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #000;
+}
+#logo {
+	float: left;
+}
+.tableheader {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #F00;
+}
